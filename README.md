@@ -1,5 +1,10 @@
 # COVID-19 Real World Worry Dataset
 
+This repo related to our paper "Measuring Emotions in the COVID-19 Real World Worry Dataset".
+
+
+Contact: bennett.kleinberg [at] ucl.ac.uk
+
 ### Repo structure
 
 - main
