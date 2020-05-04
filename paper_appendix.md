@@ -46,3 +46,18 @@ Table A2. _Topic model prevalence and most frequent unigrams (short texts)_
 | 5.64      	| take make peopl serious start wait wors ignor import lot          	|
 | 4.63      	| fear posit affect grate health relax countri thought proud strong 	|
 
+----------
+
+Table A3. _Correlation matrix for self-reported emotions_
+
+|                  	|     Worry     	|     Anger     	|     Disgust     	|     Fear     	|     Anxiety     	|     Sadness     	|     Happiness     	|     Relaxation     	|     Desire     	|
+|------------------	|---------------	|---------------	|-----------------	|--------------	|-----------------	|-----------------	|-------------------	|--------------------	|----------------	|
+|    Worry         	|    1.00       	|    -          	|    -            	|    -         	|    -            	|    -            	|    -              	|    -               	|    -           	|
+|    Anger         	|    0.29       	|    1.00       	|    -            	|    -         	|    -            	|    -            	|    -              	|    -               	|    -           	|
+|    Disgust       	|    0.24       	|    0.67       	|    1.00         	|    -         	|    -            	|    -            	|    -              	|    -               	|    -           	|
+|    Fear          	|    0.70       	|    0.47       	|    0.39         	|    1.00      	|    -            	|    -            	|    -              	|    -               	|    -           	|
+|    Anxiety       	|    0.66       	|    0.37       	|    0.30         	|    0.78      	|    1.00         	|    -            	|    -              	|    -               	|    -           	|
+|    Sadness       	|    0.48       	|    0.45       	|    0.35         	|    0.64      	|    0.57         	|    1.00         	|    -              	|    -               	|    -           	|
+|    Happiness     	|    -0.30      	|    -0.27      	|    -0.18        	|    -0.37     	|    -0.41        	|    -0.45        	|    1.00           	|    -               	|    -           	|
+|    Relaxation    	|    -0.41      	|    -0.33      	|    -0.22        	|    -0.46     	|    -0.53        	|    -0.43        	|    0.68           	|    1.00            	|    -           	|
+|    Desire        	|    -0.15      	|    0.03       	|    0.08         	|    -0.11     	|    -0.15        	|    -0.07        	|    0.37           	|    0.34            	|    1.00        	|
