@@ -1,7 +1,9 @@
 # COVID-19 Real World Worry Dataset
 
-This repo related to our paper "Measuring Emotions in the COVID-19 Real World Worry Dataset".
+Papers on this dataset:
 
+- [1]I. van der Vegt and B. Kleinberg, “Women worry about family, men about the economy: Gender differences in emotional responses to COVID-19,” arXiv:2004.08202 [cs], Apr. 2020, Accessed: Apr. 20, 2020. [Online]. Available: http://arxiv.org/abs/2004.08202.
+- [2]B. Kleinberg, I. van der Vegt, and M. Mozes, “Measuring Emotions in the COVID-19 Real World Worry Dataset,” arXiv:2004.04225 [cs], Apr. 2020, Accessed: Apr. 10, 2020. [Online]. Available: http://arxiv.org/abs/2004.04225.
 
 Contact: bennett.kleinberg [at] ucl.ac.uk
 
